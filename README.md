@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[<img src="https://raw.githubusercontent.com/ngudbhav/ngudbhav/main/intro.gif" alt="👋 Hi there! I'm (Udbhav)|https://ngudbhav.com)" title="👋 Hi there! I'm (Udbhav)|https://ngudbhav.com)"/>](https://ngudbhav.com/)
 <!--
 **ngudbhav/ngudbhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
