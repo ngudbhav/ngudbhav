@@ -10,7 +10,7 @@
 
 </p>
 
-* 🔭 Currently working as Software Engineer @ InterviewBit.
+* 🔭 Currently working as Software Engineer @ <a href="https://www.interviewbit.com/">InterviewBit</a>
 * 💬 Developer by profession, Tech-Consultant by Reputation
 * ⚡ Connect to Know More!
 
