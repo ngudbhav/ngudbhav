@@ -1,7 +1,7 @@
 [<img src="https://raw.githubusercontent.com/ngudbhav/ngudbhav/main/intro.gif" alt="👋 Hi there! I'm Udbhav|https://ngudbhav.com)" title="👋 Hi there! I'm Udbhav|https://ngudbhav.com)"/>](https://ngudbhav.com/)
 <br /> <br/>
 
-<p align="middle">
+<p align="center">
 
 [<img src="https://img.shields.io/badge/ngudbhav%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/ngudbhav)
 [<img src="https://img.shields.io/badge/ngudbhav%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/ngudbhav/)
@@ -15,7 +15,7 @@
 * ⚡ Connect to Know More!
 
 <br />
-<p align="middle">
+<p align="center">
 
 [<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>]()
 [<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>]()
@@ -45,7 +45,7 @@ Trico | [![Downloads](https://img.shields.io/github/downloads/ngudbhav/TriCo-ele
 
 <br />
 
-<span style="float:right;">
+<p align="right">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ngudbhav.ngudbhav)
-</span>
+</p>
