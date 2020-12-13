@@ -42,9 +42,7 @@ Trico | [![Downloads](https://img.shields.io/github/downloads/ngudbhav/TriCo-ele
 <br/>
 
 ![NGUdbhav's github stats](https://github-readme-stats.vercel.app/api?username=ngudbhav&show_icons=true&theme=dark)
-
 <br />
-
 <p align="right">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ngudbhav.ngudbhav)
