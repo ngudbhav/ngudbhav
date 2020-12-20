@@ -36,7 +36,7 @@
 Title | Downloads | Checkout
 --- | --- | ---
 excel-to-mysql | ![visitors](https://badgen.net/npm/dt/excel-to-mysql?icon=npm) |  <a href="https://www.npmjs.com/package/excel-to-mysql">NPM</a>
-excel-to-mongodb | ![visitors](https://badgen.net/npm/dt/excel-to-mongodb?icon=npm) | <a href="https://www.npmjs.com/package/excel-to-mysql">NPM</a>
+excel-to-mongodb | ![visitors](https://badgen.net/npm/dt/excel-to-mongodb?icon=npm) | <a href="https://www.npmjs.com/package/excel-to-mongodb">NPM</a>
 LazyType| [![Downloads](https://img.shields.io/github/downloads/ngudbhav/lazyType/total.svg)](https://github.com/ngudbhav/lazyType/releases) | <a href="https://github.com/ngudbhav/lazyType">Github</a> 
 Trico | [![Downloads](https://img.shields.io/github/downloads/ngudbhav/TriCo-electron-app/total.svg)](https://github.com/ngudbhav/TriCo-electron-app/releases) | <a href="https://github.com/ngudbhav/TriCo-electron-app">Github</a>
 <br/>
