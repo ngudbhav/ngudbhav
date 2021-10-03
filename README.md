@@ -14,7 +14,6 @@
 * 💬 Developer by profession, Tech-Consultant by Reputation
 * ⚡ Connect to Know More!
 
-<br />
 <div align="center">
 
 [<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>]()
@@ -32,6 +31,7 @@
 
 </div>
 <br/>
+<div align="center">
 
 Title | Downloads | Checkout
 --- | --- | ---
@@ -39,6 +39,7 @@ excel-to-mysql | ![visitors](https://badgen.net/npm/dt/excel-to-mysql?icon=npm) 
 excel-to-mongodb | ![visitors](https://badgen.net/npm/dt/excel-to-mongodb?icon=npm) | <a href="https://www.npmjs.com/package/excel-to-mongodb">NPM</a>
 LazyType| [![Downloads](https://img.shields.io/github/downloads/ngudbhav/lazyType/total.svg)](https://github.com/ngudbhav/lazyType/releases) | <a href="https://github.com/ngudbhav/lazyType">Github</a> 
 Trico | [![Downloads](https://img.shields.io/github/downloads/ngudbhav/TriCo-electron-app/total.svg)](https://github.com/ngudbhav/TriCo-electron-app/releases) | <a href="https://github.com/ngudbhav/TriCo-electron-app">Github</a>
+</div>
 <br/>
 <div align="center">
 
@@ -46,6 +47,7 @@ Trico | [![Downloads](https://img.shields.io/github/downloads/ngudbhav/TriCo-ele
   
 </div>
 <br />
+
 <p align="right">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ngudbhav.ngudbhav)
