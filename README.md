@@ -10,7 +10,7 @@
 
 </div>
 
-* 🔭 Currently working as Software Engineer @ <a href="https://www.interviewbit.com/">InterviewBit</a>
+* 🔭 Currently working as Software Engineer @[ThoughtSpot](https://www.thoughtspot.com/). Ex-[Scaler](https://www.scaler.com/)
 * 💬 Developer by profession, Tech-Consultant by Reputation
 * ⚡ Connect to Know More!
 
